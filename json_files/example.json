@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Inductive Furnace F87-i",
+    "country": "Ecuador",
+    "state": "Pichincha",
+    "location": {"lat": 41.12, "lon": -71.34},
+    "gender": "male",
+    "temperature_data" : [{"data1": 25.0, "data2":35.0, "data3": 45.0, "data4": 65.0, "data5": 70.0 }, 
+                          {"data1": 5.0, "data2":4.0, "data3": 5.0, "data4": 6.0, "data5": 7.0 } ]
+  },
+  {
+    "name": "Inductive Furnace G87-i",
+    "country": "Colombia",
+    "state": "Bogota",
+    "location": {"lat": 21.12, "lon": 71.34},
+    "gender": "male",
+    "temperature_data" : [{"data1": 115.0, "data2":135.0, "data3": 145.0, "data4": 165.0, "data5": 170.0 },
+                          {"data1": 115.0, "data2":135.0, "data3": 145.0, "data4": 165.0, "data5": 170.0 }]
+  }
+]

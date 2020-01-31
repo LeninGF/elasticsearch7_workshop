@@ -1,0 +1,29 @@
+{
+  "settings": {
+    "number_of_shards": 2,
+    "number_of_replicas": 1
+  },
+  "mappings": {
+    "properties": {
+      "name": {
+        "type": "text"
+      },
+      "single": {
+        "type": "boolean"
+      },
+      "birth_year": {
+        "type": "integer"
+      },
+      "gender": {
+        "type": "text"
+      },
+      "studies": {
+        "type": "text"
+      },
+      "birth_date": {
+        "type": "date",
+        "format": "yyyy-MM-dd HH:mm:ss||yyyy-MM-dd||epoch_millis"
+      }
+    }
+  }
+}

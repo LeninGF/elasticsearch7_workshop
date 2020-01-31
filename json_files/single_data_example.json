@@ -1,0 +1,8 @@
+{
+  "name": "Lenin G. Falconi",
+    "single": true,
+    "birth_year": 1984,
+    "gender": "male",
+    "studies": ["control engineering", "master of computer science"],
+    "birth_date": "1984-06-05"
+}

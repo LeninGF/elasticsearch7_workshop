@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Lenin G. Falconi",
+    "single": true,
+    "birth_year": 1984,
+    "gender": "male",
+    "studies": ["control engineering", "master of computer science"],
+    "birth_date": "1984-06-05"
+  },
+
+  {
+    "name": "Silvana A. Arevalo",
+    "single": true,
+    "birth_year": 1984,
+    "gender": "female",
+    "studies": "information systems engineering",
+    "birth_date": "1984-07-18"
+  },
+
+  {
+    "name": "Carolina I. Cadena",
+    "single": true,
+    "birth_year": 2000,
+    "gender": "female",
+    "studies": "law",
+    "birth_date": "2000-02-27"
+  },
+
+  {
+    "name": "Luis G. Falconi",
+    "single": false,
+    "birth_year": 1954,
+    "gender": "male",
+    "studies": "law",
+    "birth_date": "1954-04-26"
+  }
+]
