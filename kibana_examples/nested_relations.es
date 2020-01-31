@@ -1,3 +1,5 @@
+DELETE _all
+
 PUT pets_db
 {
   "mappings": {
@@ -69,17 +71,31 @@ POST pets_db/_doc/2
 }
 
 
-GET pets_db/_doc/1
+GET pets_db/_doc/2
 
 POST pets_db/_doc/1/_update
 {
   "script":{
     "source": "ctx._source.cats.add(params.cat)",
     "params":{
-      "cats":{
+      "cat":{
         "colors":8,
-        "name": "roberta 9",
-        "breed": "quitena"
+        "name": "roberta maria 56",
+        "breed": "alaguena"
+      }
+    }
+  }
+}
+
+POST pets_db/_doc/2/_update
+{
+  "script":{
+    "source": "ctx._source.cats.add(params.cat)",
+    "params":{
+      "cat":{
+        "colors":9,
+        "name": "roberta maria 756",
+        "breed": "alaguena"
       }
     }
   }
