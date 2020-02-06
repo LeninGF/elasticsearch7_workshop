@@ -1,2 +1,6 @@
 # ignoring idea folder
 .idea/
+
+# ignoring jupyter checkpoints folder
+
+.ipynb_checkpoints/
