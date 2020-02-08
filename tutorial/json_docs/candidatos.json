@@ -1,0 +1,56 @@
+[
+    { 
+        "nombre": "Carl",
+        "apellido": "Sagan",
+        "cedula_identidad": 1234567890,
+        "email":"carl.sagan@alien.com",
+        "profesion": "astrofísica",
+        "libro_escrito": "La diversidad de la ciencia",
+        "edad": 86,
+        "fecha_ingreso":"1934-11-09"
+    },
+
+    { 
+        "nombre": "Richard",
+        "apellido": "Dawkins",
+        "cedula_identidad": 9078563412,
+        "email":"richard.dawkins@nogod.com",
+        "profesion": "astrofísica",
+        "libro_escrito": "el espejismo de dios",
+        "edad": 79,
+        "fecha_ingreso":"1941-03-26"
+    },
+
+    { 
+        "nombre": "Stephen",
+        "apellido": "Hawking",
+        "cedula_identidad": 1234567890,
+        "email":"stephen.hawking@timeisablackhole.com",
+        "profesion": "física teórica",
+        "libro_escrito": "historia del tiempo",
+        "edad": 78,
+        "fecha_ingreso":"1942-01-08"
+    },
+
+    { 
+        "nombre": "Geoffrey",
+        "apellido": "Hinton",
+        "cedula_identidad": 4559879077,
+        "email":"geoffrey.hinton@backpropagationworks.com",
+        "profesion": "machine learning",
+        "libro_escrito": "Artificial Intelligence a Modern Approach",
+        "edad": 73,
+        "fecha_ingreso":"1947-12-06"
+    },
+
+    { 
+        "nombre": "Alan",
+        "apellido": "Turing",
+        "cedula_identidad": 8803373682,
+        "email":"alan.turing@thisisnpcomplete.com",
+        "profesion": "matemática",
+        "edad": 108,
+        "fecha_ingreso":"1912-06-23"
+    }
+    
+]
