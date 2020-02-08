@@ -55,6 +55,8 @@ POST _bulk
 { "nombre": "Geoffrey", "apellido": "Hinton", "cedula_identidad": 4559879077, "email":"geoffrey.hinton@backpropagationworks.com", "profesion": "machine learning", "libro_escrito": "Artificial Intelligence a Modern Approach", "edad": 73, "fecha_ingreso":"1947-12-06"}
 {"index":{"_index": "master_candidates_kibana", "_id":5}}
 {"nombre": "Alan","apellido": "Turing", "cedula_identidad": 8803373682, "email":"alan.turing@thisisnpcomplete.com",  "profesion": "matemática", "edad": 108, "fecha_ingreso":"1912-06-23"}
+{"index":{"_index": "master_candidates_kibana", "_id":6}}
+{"nombre": "Carlos","apellido": "Cuauhtémoc", "cedula_identidad": 2470711610, "email":"carlos.cuate@myboosarebullshit.com",  "profesion": "prestidigitador", "edad": 56, "fecha_ingreso":"1964-04-15"}
 
 GET master_candidates/_doc/3
 

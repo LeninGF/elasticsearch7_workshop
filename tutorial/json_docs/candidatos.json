@@ -51,6 +51,17 @@
         "profesion": "matemática",
         "edad": 108,
         "fecha_ingreso":"1912-06-23"
+    },
+
+    { 
+        "nombre": "Carlos",
+        "apellido": "Cuauhtémoc",
+        "cedula_identidad": 2470711610,
+        "email":"carlos.cuate@mybooksarebullshit.com",
+        "profesion": "prestidigitador",
+        "edad": 56,
+        "fecha_ingreso":"1964-04-15"
     }
+
     
 ]
